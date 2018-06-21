@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "VTuberWGL_tks.data.unityweb",
+"asmCodeUrl": "VTuberWGL_tks.asm.code.unityweb",
+"asmMemoryUrl": "VTuberWGL_tks.asm.memory.unityweb",
+"asmFrameworkUrl": "VTuberWGL_tks.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
